@@ -5,10 +5,10 @@ Simple RESTful API was created with
 * PUT
 * DELETE
 
-* 
-* Recommend using POSTMAN to test the API routes
 
-* start server by
+Recommend using POSTMAN to test the API routes
+
+start server by
 ```
 rails s 
 ```
